@@ -1,0 +1,81 @@
+body{
+    height: 500px;
+}
+
+.container{
+
+}
+
+.top-menu{
+    display: flex;
+    margin-top: 50px;
+}
+
+.buttons{
+    margin-right: 50px;
+}
+
+.filter{
+    margin-left: 300px;
+}
+
+.content{
+    margin-top: 35px;
+}
+
+.table-props th{
+    font-size: 15px;
+    text-align: center;
+}
+
+.table-body td{
+    font-weight: 400;
+    text-align: center;
+}
+
+#first{
+    width: 140px;
+}
+
+#first-col{
+    width: 20px;
+}
+
+.pagination-content{
+    display: flex;
+    margin-top: 35px;
+}
+
+.pagination-block {
+    margin-left: 80%;
+}
+
+.modal-header{
+    text-align: center;
+}
+
+#summary, #role{
+    margin-top: 20px;
+}
+
+.new-task-header{
+    margin-top: 20px;
+}
+
+#registration{
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-top: 100px;
+    display: none;
+}
+
+#registration-button{
+    margin-top: 15px;
+}
+
+#content-page{
+    /*display: none;*/
+}
+
